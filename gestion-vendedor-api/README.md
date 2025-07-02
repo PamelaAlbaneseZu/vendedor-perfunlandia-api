@@ -1,7 +1,5 @@
 # gestion-vendedor-api
 
-## ¿Qué es esto?
-
 Esta es una API REST para manejar vendedores del sistema Perfunlandia. Tiene documentación automática con Swagger y enlaces HATEOAS para navegar fácilmente entre recursos.
 
 ## 🚀 Cómo usar
