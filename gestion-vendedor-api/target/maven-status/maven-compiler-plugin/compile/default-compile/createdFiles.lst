@@ -1,0 +1,10 @@
+com\gestionvendedorapi\controllers\VendedorController.class
+com\gestionvendedorapi\GestionVendedorApiApplication.class
+com\gestionvendedorapi\config\RestTemplateConfig.class
+com\gestionvendedorapi\models\VendedorDetalle.class
+com\gestionvendedorapi\repositories\VendedorRepository.class
+com\gestionvendedorapi\dto\CrearVendedorRequest.class
+com\gestionvendedorapi\dto\VendedorDTO.class
+com\gestionvendedorapi\services\VendedorService.class
+com\gestionvendedorapi\dto\ActualizarSucursalRequest.class
+com\gestionvendedorapi\dto\UsuarioResponse.class
